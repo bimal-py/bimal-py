@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in learning something new and explore things
 
-- 🌱 I’m currently learning **JAVA, Python as well as Web Development.**
+- 🌱 I’m currently learning **Python as well as Flutter.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
