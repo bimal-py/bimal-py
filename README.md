@@ -38,7 +38,7 @@
 <br/>
 
 <p align="center">
-    <a>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=ck-lamib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ck-lamib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -46,8 +46,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ck-lamib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-lamib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=ck-lamib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ck-lamib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-lamib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-lamib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -55,7 +55,7 @@
 <br/>
 <br/>
 
-<a><img alt="bimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ck-lamib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=ck-lamib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="bimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ck-lamib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -72,7 +72,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a>
+<a href = "https://komarev.com/ghpvc/?username=ck-lamib">
     <img src="https://komarev.com/ghpvc/?username=ck-lamib">
 </a>
 <a href="https://github.com/ck-lamib?tab=followers"><img src="https://img.shields.io/github/followers/ck-lamib?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
