@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15%">, I'm Bimal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8%">, I'm Bimal</h1>
 <h3 align="center">I'm a Student of BIT. Like to explore different things.</h3>
 
 
@@ -8,15 +8,15 @@
 
 - 👀 I’m interested in learning something new and explore things
 
-- 🌱 I’m currently learning **Python as well as Flutter.**
+- 🌱 I’m currently learning **Flutter as well as Python.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Any OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My website](https://bimalkhatri.com.np)**
 
 - 📫 How to reach me **khattribimal90@gmail.com**
 
-- ⚡ Fun fact **I don't play games.**
+- ⚡ Fun fact **I like to make game but I don't play games.**
 
 ## 🚀 Languages and Tools:
 
