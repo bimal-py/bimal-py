@@ -1,64 +1,75 @@
-<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="8%">, I'm Bimal</h1>
-<h3 align="center">I'm a Student of BIT. Like to explore different things.</h3>
+<div align="center">
+<h2 align="center">
+  Namastey <img src="https://i.imgur.com/fMEIRu7.gif" width="35">
+</h2>
+<h1>
+  म हुँ विमल खत्री 
+</h1>
+<div/>
 
 
-## 🙋‍♂️ About Me
+⚡ What's up folks! I am <b>Bimal khatri</b> and I am a <b>Flutter developer</b> with over 2 years of experience.
+<br/>
 
-- 👀 I’m interested in learning something new and explore things
 
-- 🌱 I’m currently learning **Flutter as well as Python.**
+<a href = "https://komarev.com/ghpvc/?username=ck-lamib">
+    <img src="https://komarev.com/ghpvc/?username=ck-lamib">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/ck-lamib?tab=followers"><img src="https://img.shields.io/github/followers/ck-lamib?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
+&nbsp;&nbsp;
 
-- 👯 I’m looking to collaborate on **Any OpenSource Projects**
+<a href="https://www.buymeacoffee.com/ck.lamib" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
 
-- 👨‍💻 All of my projects are available at **[My website](https://bimalkhatri.com.np)**
 
-- 📫 How to reach me **khattribimal90@gmail.com**
-
-- ⚡ Fun fact **I like to make game but I don't play games.**
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
+
+<p align="center"> 
+
+<img  alt="Flutter" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> &nbsp;&nbsp;
+<img  alt="Dart" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />&nbsp;&nbsp;
+<img  alt="Android Studio" width="48px" src="https://developer.android.com/studio/images/studio-icon.svg" />&nbsp;&nbsp;
+<img  alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;&nbsp;
+<img  alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> &nbsp;&nbsp;
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> &nbsp;&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp;&nbsp;
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> &nbsp;&nbsp;
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> &nbsp;&nbsp;
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
 </p>
+</br>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-<!-- [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
+## Github Stats 📈
+[![Bimal's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ck-lamib&theme=github_dark)](https://github.com/ck-lamib)
+</br>
+</br>
 <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=ck-lamib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+    <!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=ck-lamib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ck-lamib&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    </a> -->
+    
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ck-lamib&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakLabel=DDDDDD)](https://github.com/ck-lamib/)
+</br>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=ck-lamib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ck-lamib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=ck-lamib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ck-lamib&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-lamib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ck-lamib&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</br>
+</br>
 
 
-<br/>
-<br/>
+<b>🏆 Github Achievements
 
-<a href="https://activity-graph.herokuapp.com/graph?username=ck-lamib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"><img alt="bimal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ck-lamib&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=ck-lamib&column=7&margin-w=5&margin-h=5&theme=discord)](https://github.com/ck-lamib/)
 
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
@@ -70,10 +81,3 @@
 <a href = "https://www.youtube.com/channel/UC1sIbY9m3sxOg8f6K_YIM0Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-<a href = "https://komarev.com/ghpvc/?username=ck-lamib">
-    <img src="https://komarev.com/ghpvc/?username=ck-lamib">
-</a>
-<a href="https://github.com/ck-lamib?tab=followers"><img src="https://img.shields.io/github/followers/ck-lamib?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
-
