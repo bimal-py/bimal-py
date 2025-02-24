@@ -19,7 +19,7 @@
 <a href="https://github.com/virtual-bimal?tab=followers"><img src="https://img.shields.io/github/followers/virtual-bimal?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
 &nbsp;&nbsp;
 
-<a href="https://www.buymeacoffee.com/ck.lamib" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/virtualbimal" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
 
 
 
@@ -75,9 +75,9 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/bimal-kc-993707216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/ck.lamib/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.facebook.com/virtualbimal/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
 <a href = "https://twitter.com/bimalkh80249679"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/ck.lamib/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/virtualbimal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC1sIbY9m3sxOg8f6K_YIM0Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
