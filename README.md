@@ -7,10 +7,9 @@
   म हुँ विमल खत्री 
 </h1>
 <div/>
-
-
-⚡ What's up folks! I am <b>Bimal khatri</b> and I am a <b>Flutter developer</b> with over 2 years of experience.
+⚡ What's up folks! I am <b>Bimal khatri</b>, a <b>Software developer</b>. Originally from Nepal 🇳🇵, now open to global opportunities.
 <br/>
+</br>
 
 
 <a href = "https://komarev.com/ghpvc/?username=virtual-bimal">
@@ -20,64 +19,76 @@
 &nbsp;&nbsp;
 
 <a href="https://www.buymeacoffee.com/virtualbimal" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
-
-
+</br>
 
 ## 🚀 Languages and Tools:
 
-
-<p align="center"> 
-
-<img  alt="Flutter" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> &nbsp;&nbsp;
-<img  alt="Dart" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />&nbsp;&nbsp;
-<img  alt="Android Studio" width="48px" src="https://developer.android.com/studio/images/studio-icon.svg" />&nbsp;&nbsp;
-<img  alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;&nbsp;
-<img  alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> &nbsp;&nbsp;
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> &nbsp;&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> &nbsp;&nbsp;
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> &nbsp;&nbsp;
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> &nbsp;&nbsp;
-<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>&nbsp;&nbsp;
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  
+<p align="center">
+  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
+  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />&nbsp;&nbsp;
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp;&nbsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp;&nbsp;
+  <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;
+  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />&nbsp;&nbsp;
+  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />&nbsp;&nbsp;
+  <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp;&nbsp;
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />&nbsp;&nbsp;
+  <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />&nbsp;&nbsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;
+  <img alt="GitLab CI" src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Fastlane" src="https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black" />&nbsp;&nbsp;
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
+  <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />&nbsp;&nbsp;
+  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </p>
 </br>
 
-
-## Github Stats 📈
+## 📈 Github Stats 
 [![Bimal's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virtual-bimal&theme=github_dark)](https://github.com/virtual-bimal)
 </br>
 </br>
 <p align="center">
-    <!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=virtual-bimal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virtual-bimal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a> -->
+
     
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=virtual-bimal&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakLabel=DDDDDD)](https://github.com/virtual-bimal/)
 </br>
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=virtual-bimal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=virtual-bimal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=virtual-bimal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtual-bimal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</br>
+<a href="https://github.com/virtual-bimal/"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=virtual-bimal&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=true" /></a>
+  <a href="https://github.com/virtual-bimal/"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtual-bimal&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" /></a>
+
 </br>
 
-
-<b>🏆 Github Achievements
+## 🏆 Github Achievements
 
 [![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=virtual-bimal&column=7&margin-w=5&margin-h=5&theme=discord)](https://github.com/virtual-bimal/)
 
+## ✍️ Random Dev Quote
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/bimal-kc-993707216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.facebook.com/virtualbimal/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
-<a href = "https://twitter.com/bimalkh80249679"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/virtualbimal/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UC1sIbY9m3sxOg8f6K_YIM0Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
 </p>
+
+## 🌐 Connect with me:
+
+<p align="center">
+  <a href="https://discord.gg/virtualbimal"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://facebook.com/virtualbimal"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/virtualbimal"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/virtualbimal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/virtualbimal"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="https://youtube.com/@virtualbimal"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="mailto:khattribimal90@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+
