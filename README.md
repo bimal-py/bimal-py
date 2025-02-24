@@ -13,10 +13,10 @@
 <br/>
 
 
-<a href = "https://komarev.com/ghpvc/?username=bimir311">
-    <img src="https://komarev.com/ghpvc/?username=bimir311">
+<a href = "https://komarev.com/ghpvc/?username=virtual-bimal">
+    <img src="https://komarev.com/ghpvc/?username=virtual-bimal">
 </a>&nbsp;&nbsp;
-<a href="https://github.com/bimir311?tab=followers"><img src="https://img.shields.io/github/followers/bimir311?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
+<a href="https://github.com/virtual-bimal?tab=followers"><img src="https://img.shields.io/github/followers/virtual-bimal?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
 &nbsp;&nbsp;
 
 <a href="https://www.buymeacoffee.com/ck.lamib" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
@@ -45,20 +45,20 @@
 
 
 ## Github Stats 📈
-[![Bimal's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bimir311&theme=github_dark)](https://github.com/bimir311)
+[![Bimal's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virtual-bimal&theme=github_dark)](https://github.com/virtual-bimal)
 </br>
 </br>
 <p align="center">
-    <!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=bimir311&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bimir311&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <!-- <a href="https://github-readme-streak-stats.herokuapp.com/?user=virtual-bimal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bimal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=virtual-bimal&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a> -->
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bimir311&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakLabel=DDDDDD)](https://github.com/bimir311/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=virtual-bimal&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakLabel=DDDDDD)](https://github.com/virtual-bimal/)
 </br>
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api?username=bimir311&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimir311&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bimir311&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimir311&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=virtual-bimal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=virtual-bimal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=virtual-bimal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtual-bimal&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -68,7 +68,7 @@
 
 <b>🏆 Github Achievements
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=bimir311&column=7&margin-w=5&margin-h=5&theme=discord)](https://github.com/bimir311/)
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=virtual-bimal&column=7&margin-w=5&margin-h=5&theme=discord)](https://github.com/virtual-bimal/)
 
 
 ## Connect with me:
