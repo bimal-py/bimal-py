@@ -12,13 +12,13 @@
 </br>
 
 
-<a href = "https://komarev.com/ghpvc/?username=virtual-bimal">
-    <img src="https://komarev.com/ghpvc/?username=virtual-bimal">
+<a href = "https://komarev.com/ghpvc/?username=bimal-py">
+    <img src="https://komarev.com/ghpvc/?username=bimal-py">
 </a>&nbsp;&nbsp;
-<a href="https://github.com/virtual-bimal?tab=followers"><img src="https://img.shields.io/github/followers/virtual-bimal?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
+<a href="https://github.com/bimal-py?tab=followers"><img src="https://img.shields.io/github/followers/bimal-py?label=Followers&style=social%22%20alt=%22GitHub%20Badge"></a>
 &nbsp;&nbsp;
 
-<a href="https://www.buymeacoffee.com/virtualbimal" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bimal.py" target="_blank"><img height="25" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>&nbsp;&nbsp;
 </br>
 
 ## 🚀 Languages and Tools:
@@ -54,24 +54,24 @@
 </br>
 
 ## 📈 Github Stats 
-[![Bimal's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virtual-bimal&theme=github_dark)](https://github.com/virtual-bimal)
+[![Bimal's github details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bimal-py&theme=github_dark)](https://github.com/bimal-py)
 </br>
 </br>
 <p align="center">
 
     
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=virtual-bimal&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakLabel=DDDDDD)](https://github.com/virtual-bimal/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bimal-py&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&fire=DD2727&ring=DD2727&currStreakLabel=DDDDDD)](https://github.com/bimal-py/)
 </br>
 </p>
 
-<a href="https://github.com/virtual-bimal/"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=virtual-bimal&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=true" /></a>
-  <a href="https://github.com/virtual-bimal/"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtual-bimal&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" /></a>
+<a href="https://github.com/bimal-py/"><img alt="Bimal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bimal-py&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=true" /></a>
+  <a href="https://github.com/bimal-py/"><img alt="Bimal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bimal-py&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=false&count_private=false&layout=compact" /></a>
 
 </br>
 
 ## 🏆 Github Achievements
 
-[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=virtual-bimal&column=7&margin-w=5&margin-h=5&theme=discord)](https://github.com/virtual-bimal/)
+[![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=bimal-py&column=7&margin-w=5&margin-h=5&theme=discord)](https://github.com/bimal-py/)
 
 ## ✍️ Random Dev Quote
 
@@ -82,12 +82,12 @@
 ## 🌐 Connect with me:
 
 <p align="center">
-  <a href="https://discord.gg/virtualbimal"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/virtualbimal"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/virtualbimal"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/virtualbimal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/virtualbimal"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://youtube.com/@virtualbimal"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://discord.gg/bimal.py"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" /></a>
+  <a href="https://facebook.com/bimal.py"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/bimal.py"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/bimal-py"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/bimal.py"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="https://youtube.com/@bimal.py"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
   <a href="mailto:khattribimal90@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
