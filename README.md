@@ -86,8 +86,8 @@
   <a href="https://facebook.com/bimal.py"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
   <a href="https://instagram.com/bimal.py"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/bimal-py"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/bimal.py"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://youtube.com/@bimal.py"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://x.com/bimal_py"><img alt="X" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
+  <a href="https://youtube.com/@bimal-py"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
   <a href="mailto:khattribimal90@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
